@@ -1,8 +1,5 @@
 第一次提交。
 第二次提交。
 lala
-<<<<<<< HEAD
-aaaa
-=======
 哈哈哈哈
->>>>>>> branch 'master' of git@github.com:xingyunlina/exclipseGit.git
+aaa
